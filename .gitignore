@@ -1,3 +1,5 @@
 *.pyc
 fbids.txt
 cache/
+target.png
+output.jpg

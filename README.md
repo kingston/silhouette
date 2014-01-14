@@ -8,3 +8,4 @@ Dependencies
 ------------
 
 + requests 2.2.0
++ pillow 2.3.0
